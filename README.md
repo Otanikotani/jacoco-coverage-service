@@ -51,7 +51,7 @@ Converts jacoco.xml to json. Sample of resulting json:
 }
 ```
 
-The name of each method coverage is built using: https://github.com/jacoco/jacoco/blob/34cd880f4e52a32b9f88ed4ea687b8f3f892395b/org.jacoco.report/src/org/jacoco/report/JavaNames.java
+The name of each method coverage is built using: [JaCoCo Java Names](https://github.com/jacoco/jacoco/blob/34cd880f4e52a32b9f88ed4ea687b8f3f892395b/org.jacoco.report/src/org/jacoco/report/JavaNames.java)
 
 Curl example of request:
 
