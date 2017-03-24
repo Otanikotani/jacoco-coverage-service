@@ -35,18 +35,18 @@ Converts jacoco.xml to json. Sample of resulting json:
               }
             ],
             "covered": 0,
-            "uncovered": 12,
-            "total": 12
+            "uncovered": 7,
+            "total": 7
           }
         ],
-        "covered": 44,
-        "uncovered": 146,
-        "total": 190
+        "covered": 0,
+        "uncovered": 7,
+        "total": 7
       }
     ],
-    "covered": 44,
-    "uncovered": 146,
-    "total": 190
+    "covered": 0,
+    "uncovered": 7,
+    "total": 7
   }
 }
 ```
