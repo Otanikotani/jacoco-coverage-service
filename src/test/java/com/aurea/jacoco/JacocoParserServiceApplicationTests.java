@@ -1,4 +1,4 @@
-package com.aurea;
+package com.aurea.jacoco;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
