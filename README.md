@@ -1,3 +1,5 @@
+[![Coverage Status](https://coveralls.io/repos/github/Otanikotani/jacoco-coverage-service/badge.svg?branch=master)](https://coveralls.io/github/Otanikotani/jacoco-coverage-service?branch=master)
+[![Build Status](https://travis-ci.org/Otanikotani/jacoco-coverage-service.svg?branch=master)](https://travis-ci.org/Otanikotani/jacoco-coverage-service)
 # jacoco-coverage-service
 
 Converts jacoco.xml to json. Sample of resulting json:
